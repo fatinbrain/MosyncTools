@@ -1,10 +1,8 @@
 MosyncTools
 ===========
-
 Some tools to simplify life within MoSync development
 
-**Currently available tools:**
+#Currently available tools:
 
-StringSdcard
-------------
-	Simplyfy input/output String data from/to device SD card.
+##StringSdcard
+Simplify input/output String data from/to device SD card.
