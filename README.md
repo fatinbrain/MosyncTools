@@ -6,3 +6,6 @@ Some tools to simplify life within MoSync development
 
 ##StringSdcard
 Simplify input/output String data from/to device SD card.
+
+##StorageWorks
+Easy OOP wrapper of MoSync storage.
