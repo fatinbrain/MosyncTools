@@ -12,3 +12,6 @@ Easy OOP wrapper of MoSync storage.
 
 ##WaitMessage
 Shows message with title and AcitivtyIndicator.
+
+##PopupProgress
+Shows message with title, text and progress bar with percentage.
