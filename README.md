@@ -15,3 +15,6 @@ Shows message with title and AcitivtyIndicator.
 
 ##PopupProgress
 Shows message with title, text and progress bar with percentage.
+
+##PopupMenu
+Shows menu with title, help message and some buttons.
